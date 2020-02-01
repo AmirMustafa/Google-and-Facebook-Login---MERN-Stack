@@ -14,6 +14,7 @@ Passport JS is for using Login with Google and Facebook. For the backend Node JS
 <img src='https://user-images.githubusercontent.com/15896579/73590321-308f3280-4507-11ea-9535-0d239204cde4.png' alt="FB Signin"/>
 <img src='https://user-images.githubusercontent.com/15896579/73590324-3422b980-4507-11ea-95ec-5bdadf6e7452.png' alt="Redux Implementation"/>
 <img src='https://user-images.githubusercontent.com/15896579/73590314-17868180-4507-11ea-9fd6-88f5cdd6f619.png' alt="Project image"/>
+<img src='https://user-images.githubusercontent.com/15896579/73590418-215cb480-4508-11ea-9a5c-10cb7e8496d5.png' alt="Getting Data"/>
 <img src='https://user-images.githubusercontent.com/15896579/73590337-456bc600-4507-11ea-873b-0d6867739cf6.png' alt="Mongo DB Atlas"/>
 
 
