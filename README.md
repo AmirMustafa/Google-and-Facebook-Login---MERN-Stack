@@ -11,6 +11,9 @@ https://google-fb-oauth-mern.herokuapp.com/
 4. Create your account in Mongo DB Atlas
 5. In config/keys.js - paste your mongo db atlas url
 
+## Review
+Please leave a ⭐ if you love it 
+
 
 ## Snippets
 1. Passport Js(services/passport.js)
@@ -105,8 +108,6 @@ passport.use(
 
 
 ```
-## Review
-Please leave a ⭐ if you love it 
 
 
 ## Screenshot
