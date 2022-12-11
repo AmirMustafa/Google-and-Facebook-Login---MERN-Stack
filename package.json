@@ -15,7 +15,7 @@
     "axios": "^0.19.2",
     "concurrently": "^5.0.2",
     "cookie-session": "^1.4.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "mongoose": "^5.8.7",
     "passport": "^0.4.1",
     "passport-facebook": "^3.0.0",
