@@ -1,6 +1,8 @@
 # Google-and-Facebook-Login---MERN-Stack
 Passport JS is for using Login with Google and Facebook. For the backend Node JS (Express JS) is used and in front end for visual React JS and Redux is used. For the database Mongo DB Atlas is used. Axios is used for fetching data from React JS to Node JS.
 
+Please leave a star if it was helpful.
+
 ## Production
 https://google-fb-oauth-mern.herokuapp.com/
 
