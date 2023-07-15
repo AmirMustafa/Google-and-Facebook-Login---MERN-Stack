@@ -14,7 +14,7 @@ https://google-fb-oauth-mern.herokuapp.com/
 5. In config/keys.js - paste your mongo db atlas url
 
 ## Review
-Please leave a ⭐ if you love it 
+Please leave a ⭐ if you like it
 
 
 ## Snippets
